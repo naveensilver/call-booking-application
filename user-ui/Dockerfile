@@ -1,5 +1,5 @@
 FROM node:17.9.0-slim
-LABEL maintainer="DeekshithSN"
+LABEL maintainer="Naveen"
 RUN useradd userui
 WORKDIR /app
 RUN chown userui /app /home
