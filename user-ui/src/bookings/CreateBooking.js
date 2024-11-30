@@ -179,7 +179,7 @@ function CreateBooking() {
                     </Form.Control>
                     <Form.Text className="text-muted">
                       Payment can be done via Phonepe, G-Pay to {PAYMENT_NUMBER}.<br />
-                      Through PayPal send it to DeekshithSN
+                      Through PayPal send it to Naveen
                     </Form.Text>
                   </Form.Group>
                   <Form.Group className='col-6'>
